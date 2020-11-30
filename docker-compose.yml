@@ -1,0 +1,24 @@
+version: "3.7"
+services: 
+  server:
+    build: "./api"
+    container_name: node_container
+    volumes:
+      - ./api:/usr/app
+    ports: 
+      - "4000:4000"
+    restart: always
+  
+  postgres:
+    container_name: postgres
+    image: postgres:latest
+    environment:
+      - POSTGRES_DB=admin
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=admin
+      - TZ=GMT
+    volumes:
+      - "./data/postgres"
+    ports:
+      - 5432:5432
+    
