@@ -1,10 +1,13 @@
 # NativeMarketMobile
 
-![Stacks](https://ibb.co/ggH24r1)
+![Stacks](https://i.imgur.com/5tEf1tY.jpg)
 
 # APK Disponivel na Aptoide Store:
-![AppGif](https://ibb.co/f9gKyNC)![Aptoide URL](https://ibb.co/gDfMyvn)
-https://bit.ly/2KVxcKj
+## https://bit.ly/2KVxcKj
+## <img src="/QRCode.png" width="200"/>
+# <img src="/demo.gif" width="250"/> 
+
+
 ## Features
     * [x] Docker
     * [x] Nginx
@@ -114,4 +117,5 @@ http://baseURL/products/:ProductName
 
 # Insomnia - API End Points:
 
-[!Insomnia](https://www.saashub.com/images/app/screenshots/17/583b57310db7/landing-medium.jpg?1540906885)
+![Insomnia](https://www.saashub.com/images/app/screenshots/17/583b57310db7/landing-medium.jpg?1540906885)
+https://github.com/DiegoCastro-R/NativeMarketMobile/blob/master/Insomnia_2020-11-30
